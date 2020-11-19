@@ -1,0 +1,43 @@
+* {
+    font-family: Arial;
+    color: gray;
+  }
+
+  body{
+      background-image: repeating-radial-gradient(orange,white);
+      background-color: orange;
+  }
+   
+   
+  h1 {
+    color: black;
+    text-align: center;
+
+  }
+
+  h2 {
+    color: black;
+    font-style: italic;
+  }
+   
+  h3{
+      text-indent: 10px;
+      font-weight: bold;
+  }
+  p, 
+  li {
+    font-size: 18px;
+  }
+   p{
+       text-indent: 25px;
+   }
+   
+  a {
+    text-decoration: none;
+  }
+
+  #footer{
+      font-size: 10px;
+      opacity: 75;
+      text-align: center;
+  }
